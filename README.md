@@ -1,7 +1,7 @@
 
-# CodeQuest Search Engine
+# CodeCraft Search Engine
 
-Welcome to the CodeQuest: Search Engine repository! This project provides a web application that allows users to search for coding questions from LeetCode (LC). Currently, it only supports LeetCode, but can be extended to different platforms in the future.
+Welcome to the CodeCraft repository! This project provides a web application that allows users to search for coding questions from LeetCode. Currently, it only supports LeetCode, but can be easily extended to different platforms in the future.
 
 ## Prerequisite
 
@@ -18,13 +18,13 @@ Please make sure to have the latest version of Google Chrome browser and Chrome 
 Clone the project
 
 ```bash
-  git clone https://github.com/aryangoenka26/LeetCode-Question-Finder
+  git clone https://github.com/Arman-0320/CodeCraft
 ```
 
 Go to the project directory
 
 ```bash
-  cd LeetCode-Question-Finder
+  cd CodeCraft
 ```
 
 Install dependencies
@@ -39,6 +39,6 @@ Start the server
   flask --app app run
 ```
 
-#### Website deployed at : <a href="https://tf-idf-q-finder.onrender.com/">CodeQuest</a>
+#### Website deployed at : <a href="https://codecraft-gvkn.onrender.com/">CodeCraft</a>
 
-## Feel free to explore, utilize and contribute to CodeQuest!
+## Feel free to explore, utilize and contribute to CodeCraft!
